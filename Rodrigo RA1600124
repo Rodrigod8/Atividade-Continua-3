@@ -169,3 +169,25 @@ Os demais ** empurra ** não precisam dessa informação
 ###  Clonar um repositório remoto já existente
 
 	git clone git@github.com: leocomelli / curso-git.git
+	
+	Títulos
+	
+# O título maior
+## O segundo maior título
+###### O título menor
+
+Estilizar texto
+Você pode dar ênfase usando texto em negrito, itálico ou tachado.
+
+Estilo	Sintaxe	Atalho	Exemplo	Resultado
+Negrito	** ** ou __ __	command/control + b	**Esse texto está em negrito**	Esse texto está em negrito
+Itálico	* * ou _ _	command/control + i	*Esse texto está em itálico*	Esse texto está em itálico
+Tachado	~~ ~~		~~Esse texto estava errado~~	Esse texto estava errado
+Negrito e itálico aninhado	** ** e _ _		**Esse texto é _extremamente_ importante**	Esse texto é extremamente importante
+Todo em negrito e itálico	*** ***		***Todo esse texto é importante***	Todo esse texto é importante
+Citar texto
+Você pode citar texto com um >.
+
+Nas palavras de Abraham Lincoln:
+
+> Pardon my French
